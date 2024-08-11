@@ -1,15 +1,15 @@
 # odin-recipes
 
-Mon premier projet ! 
+My first Odin project !
 
-Je vais essayer de créer un un site web contenant la recette d'un gâteau ! 
+I will try to create a recipe website.
 
-Pour cela, je vais essayer utiliser tout ce que j'ai appris précédemment comme :
+I will try to use every things i learned such as :
 -headings
 -paragraphs
--gras 
--italique
--listes ordonnées 
--listes non ordonnées
+-bold 
+-italic
+-ordered lists 
+-unordered lists
 -images
--liens
+-links
